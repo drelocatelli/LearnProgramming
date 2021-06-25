@@ -1,0 +1,108 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BUiisUxQ3HdC3lae_pZ2xWIJVV0",
+  "nextPageToken": "CAwQAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 12
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVZB_ea-zlg7FJpT0FptGkkcqIY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p8vqtla_49M"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lsmRwFD0FnN_YCMrVaVc_zIqmIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "afakW-BZv14"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-0-gATQ9xL69ohcnZuieZvp4S0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ByrlZqCoTZM"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6FpisdhxvmSwERYuwBTGoqgwJZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fElxt-nULz4"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cZtL5Csw9GcICupTXk20k-4EqgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aa3lrz_aeOw"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wGGgTfnZaL237aQlc2tSehXp7WI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O2DFKHla80A"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xa5WaKac7f8w-K4cj-C7SLjyV84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PTPvVjzjpAk"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TE-_07fp2NpC8KPR0KXFCzLIZvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a5fi5atB-1s"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uxEbHlq5bjao56jgN46kPLfJszk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Zy5GB5-eUM"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1HwXh7yK2Xx-u55ums880ue0K0s",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLhlNYkRKYeOzsO-lXwbA_MN3DeRWXsqv8"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_JbFfYfsxnold1Igv6BfHTGgNqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MX8v1J2Dxdw"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QxTgNkLU3TWYBN7EPb0Ajh0Bm3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vAts0_Li_7E"
+      }
+    }
+  ]
+}
