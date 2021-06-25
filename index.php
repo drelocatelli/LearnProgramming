@@ -118,7 +118,7 @@ for($i = 1; $i <= $total; $i++){
 
 
 <style>
-*{margin:0; padding:0; text-align: center;}
+*{margin:0; padding:0; text-align: center; font-family:sans-serif;}
 
 body{background:black;}
 
