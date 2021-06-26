@@ -1,13 +1,29 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "C1_qUZXRkuBBn3vVsrRPjw-0FPA",
+  "etag": "5qoAwQGdjDHRPdWae7iJl505Cqk",
   "nextPageToken": "CAwQAA",
   "regionCode": "BR",
   "pageInfo": {
-    "totalResults": 1895,
+    "totalResults": 1658,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NqESDIIBaBIcCUFGbun6vWc4uUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z1sBYCIgAuQ"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TsEhzDPNK30QQs7pTfTY2PoAZHw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3-npnjwWUWo"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "mZo2WXJbuq_XJPzNws8QQ0H3B70",
@@ -86,22 +102,6 @@
       "id": {
         "kind": "youtube#video",
         "videoId": "prAzvS-Pa_k"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hMrdY7oYPSuNsswMVacvVoHRs3A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "odoimRdFdMk"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "VsQaq4IOYrJnIAHnYaebxrEXYgg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "SRhMJt3x5vI"
       }
     }
   ]
