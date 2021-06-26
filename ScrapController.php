@@ -2,7 +2,7 @@
 
 class ScrapController {
 
-    private $apiKey = 'AIzaSyCIduIjDd08ScxcXGwKKyhxatvDFhwSh1U';
+    private $apiKey = 'AIzaSyC8S77DnAzZv_KP0216ccpA0PpJcq46TGE';
     private $maxResults = 12;
     private $channelName;
     private $params;
