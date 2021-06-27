@@ -9,6 +9,7 @@
 <body>
 <br>
 <h1 style="color:white;">Daily Dev Learn Videos Brazil</h1>
+<br>
 <div id="lista">
 
 </div>
@@ -92,7 +93,9 @@ function sortList() {
 
   window.onload = function(){
     sortList()
-    document.querySelector('#modal').remove()
+    setTimeout(()=>{
+      document.querySelector('#modal').remove()
+    },1500)
   }
 </script>
 
