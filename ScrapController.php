@@ -63,4 +63,6 @@ new ScrapController([
     ['Reece Keney', 'UCD3rWzjFSdD4D6I1hxmcGJA'],
     ['Kabucation', 'UCiqnRXPAAk6iv2m47odUFzw'],
     ['SoftwareEngineeringStudend', 'UCyjEXAHK8xfRmlnkat2ympQ']
+    ['SoengSouy Webdesign', 'UC3hmSvBOttz62UEkfHLxu5Q'],
+    ['Better Csharp blog', 'UCS3W5vFugqi6QcsoAIHcMpw']
 ]);
